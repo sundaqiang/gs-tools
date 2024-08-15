@@ -1,4 +1,4 @@
-package main
+package tools
 
 type PublicParam struct {
 	MsgType     string `form:"msg_type"`
