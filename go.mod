@@ -1,4 +1,4 @@
-module github.com/sundaqiang/tools
+module github.com/sundaqiang/gs-tools
 
 go 1.22
 
